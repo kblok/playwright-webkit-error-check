@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/kblok/playwright-webkit-error-check/issues"
   },
-  "homepage": "https://github.com/kblok/playwright-webkit-error-check#readme"
+  "homepage": "https://github.com/kblok/playwright-webkit-error-check#readme",
+  "dependencies": {
+    "playwright": "1.34.3"
+  }
 }
