@@ -1,0 +1,19 @@
+{
+  "name": "playwright-webkit-error-check",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kblok/playwright-webkit-error-check.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kblok/playwright-webkit-error-check/issues"
+  },
+  "homepage": "https://github.com/kblok/playwright-webkit-error-check#readme"
+}
